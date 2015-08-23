@@ -276,7 +276,7 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 119, //PowerStake addresses start with 'p'
+        PUBKEY_ADDRESS = 117, //PowerStake addresses starts with 'p'
         SCRIPT_ADDRESS = 28,
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,
