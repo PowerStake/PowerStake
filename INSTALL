@@ -1,0 +1,9 @@
+Building PowerStake
+
+See doc/readme-qt.rst for instructions on building PowerStake QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PowerStake.
+
+See doc/build-*.txt for instructions on building powerstaked,
+the intended-for-services, no-graphical-interface, reference
+implementation of PowerStake.
